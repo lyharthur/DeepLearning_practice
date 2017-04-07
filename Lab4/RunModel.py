@@ -1,4 +1,4 @@
-from Lab2_keras import NIN
+from Lab4_keras import NIN
 
 
 NIN('leaky',True,True,'leaky_HE_BN')
